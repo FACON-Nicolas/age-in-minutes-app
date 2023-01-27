@@ -1,13 +1,13 @@
 # Age In Minutes Android Application
 
-This project is an Android Application that convert time in minutes, I use it the 26th Junuary 2023 to know my age in minutes (I am born the 1st April 2003), and at the moment when I am writing these lines, I am 10 427 100 minutes old. 
-
 ![](https://img.shields.io/badge/Release-v1.0-blueviolet)
 ![](https://img.shields.io/badge/Language-Kotlin-005255)
 ![](https://img.shields.io/badge/Libraries-AndroidStudio-00cfff)
 ![](https://img.shields.io/badge/OS-Android-9cf)
 ![](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![](https://i.ibb.co/vHGHb84/image-2.png)
+
+This project is an Android Application that convert time in minutes, I use it the 26th Junuary 2023 to know my age in minutes (I am born the 1st April 2003), and at the moment when I am writing these lines, I am 10 427 100 minutes old. 
 
 # Summary
 
