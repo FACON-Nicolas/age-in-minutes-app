@@ -36,7 +36,7 @@ Then the program get the current time since the 1970-01-01 in milliseconds and d
 
 ```
 currentTime <- now().getTime().ms / 60000 # time in minutes since 1970-01-01
-dateChosen <- datePickerDialog.get().getTime() / 60000
+dateChosen <- datePickerDialog.get().getTime().ms / 60000
 timeInMinutes <- currentTime - dateChoosen
 ```
 
