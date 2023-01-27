@@ -32,12 +32,12 @@ git clone https://github.com/FACON-Nicolas/age-in-minutes-app
 
 the program is easy, when the user press the `SELECT DATE` button on the screen, there is a date picker dialog that opens and it is possible to choose a date.
 
-Then the program get the current time since the 1970-01-01 in milliseconds and divide it by 60000 (to get the time in minutes).
+Then the program get the current time since the 1970-01-01 in milliseconds and divide it by 60000 (to get the time in minutes), and does the exact same with the date chosen.
 
 ```
 currentTime <- now().getTime().ms / 60000 # time in minutes since 1970-01-01
 dateChosen <- datePickerDialog.get().getTime().ms / 60000
-timeInMinutes <- currentTime - dateChoosen
+timeInMinutes <- currentTime - dateChosen
 ```
 
 
